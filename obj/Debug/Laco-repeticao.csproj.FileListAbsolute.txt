@@ -1,0 +1,7 @@
+C:\Users\renon.hgusson\source\repos\Laco-repeticao\Laco-repeticao\bin\Debug\Laco-repeticao.exe.config
+C:\Users\renon.hgusson\source\repos\Laco-repeticao\Laco-repeticao\bin\Debug\Laco-repeticao.exe
+C:\Users\renon.hgusson\source\repos\Laco-repeticao\Laco-repeticao\bin\Debug\Laco-repeticao.pdb
+C:\Users\renon.hgusson\source\repos\Laco-repeticao\Laco-repeticao\obj\Debug\Laco-repeticao.csproj.AssemblyReference.cache
+C:\Users\renon.hgusson\source\repos\Laco-repeticao\Laco-repeticao\obj\Debug\Laco-repeticao.csproj.CoreCompileInputs.cache
+C:\Users\renon.hgusson\source\repos\Laco-repeticao\Laco-repeticao\obj\Debug\Laco-repeticao.exe
+C:\Users\renon.hgusson\source\repos\Laco-repeticao\Laco-repeticao\obj\Debug\Laco-repeticao.pdb
