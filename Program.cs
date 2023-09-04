@@ -12,6 +12,7 @@ namespace Laco_repeticao
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
             string loop = "s";
+            
             Console.Write("Deseja seguir para o menu? (s/n): ");
             loop = Console.ReadLine();
 
@@ -52,6 +53,7 @@ namespace Laco_repeticao
 
                     Console.Write("Digite um número inteiro desejado para a tabuada: ");
                     int escolha = int.Parse(Console.ReadLine());
+                    Console.WriteLine("");
 
                     while (contador <= 10)
                     {
@@ -84,7 +86,7 @@ namespace Laco_repeticao
                         if (valor == 0)
                         {
                             Console.ForegroundColor = ConsoleColor.Green;
-                            Console.Write("\nO Resultado da soma foi: " + soma);
+                            Console.WriteLine("\nO Resultado da soma foi: " + soma);
                         }
                     }
                 }
@@ -118,7 +120,7 @@ namespace Laco_repeticao
 
                         else if (chute > valor)
                         {
-                            Console.ForegroundColor = ConsoleColor.Red;
+                            Console.ForegroundColor = ConsoleColor.Blue;
                             Console.WriteLine("\nSeu valor está acima!");
                         }
 
